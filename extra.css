@@ -1,0 +1,29 @@
+tr{
+ font-family:verdana;
+ font-weight:bold;
+ font:25px;
+ padding:0px;
+ }
+th{
+ font:35px Bold Black;
+}
+table{
+    border-color:blue;
+    background-color:pink;
+    }
+td{
+ border-weight:3px;
+}
+p{
+ font-weight:bold;
+ font-family:Times New Roman;
+
+}
+h1{
+font:40px Bold;
+
+}
+ul{
+font:20px Bold Black;
+}
+
